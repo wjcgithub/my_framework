@@ -2,6 +2,7 @@
 	/**
 	 * 适配器模式的例子
 	 */
+
 	namespace Brave;
 
 	interface IDatabase{
